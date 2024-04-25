@@ -1,4 +1,4 @@
-[![logo](https://github.com/joy944/joy944/blob/main/Screenshot%202024-04-25%20124712.png)
+![logo](https://github.com/joy944/joy944/blob/main/Screenshot%202024-04-25%20124712.png)
 <h1 align="center">Hi 👋, I'm Naimul Islam Joy</h1>
 <h3 align="center">Building Tomorrow's World One Line at a Time: My Code Journey!</h3>
 
